@@ -1,0 +1,4 @@
+App1_JLR.MainActivity, App1_JLR;md577584917596e97cc8f9673eaf4f96047.MainActivity
+App1_JLR.MainActivity, App1_JLR, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md577584917596e97cc8f9673eaf4f96047.MainActivity
+App1_JLR.MainActivity;md577584917596e97cc8f9673eaf4f96047.MainActivity
+app1_jlr.MainActivity;md577584917596e97cc8f9673eaf4f96047.MainActivity
